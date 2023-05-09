@@ -1,2 +1,2 @@
-# sManager-Data-Fetch
+# sManager Data Fetch
 Extraction and Transformation Pipeline
